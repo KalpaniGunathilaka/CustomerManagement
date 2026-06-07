@@ -1,0 +1,17 @@
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net10.0\CustomerManagement.Infrastructure.deps.json
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net10.0\CustomerManagement.Infrastructure.dll
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net10.0\CustomerManagement.Infrastructure.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net10.0\CustomerManagement.Application.dll
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net10.0\CustomerManagement.Domain.dll
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net10.0\CustomerManagement.Application.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net10.0\CustomerManagement.Domain.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.AssemblyInfo.cs
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\Customer.933B4B5A.Up2Date
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.dll
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\refint\CustomerManagement.Infrastructure.dll
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\ref\CustomerManagement.Infrastructure.dll
