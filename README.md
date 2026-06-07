@@ -132,35 +132,7 @@ and test all endpoints.
 
 ---
 
-## Architecture Flow
 
-Client Request
-
-↓
-
-API Controller
-
-↓
-
-Service Layer
-
-↓
-
-Repository Layer
-
-↓
-
-Stored Procedure
-
-↓
-
-SQL Server Database
-
-↓
-
-Response
-
----
 
 ## Author
 
