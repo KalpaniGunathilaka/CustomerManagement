@@ -1,0 +1,11 @@
+D:\Customer\CustomerManagement\CustomerManagement.Domain\bin\Debug\net10.0\CustomerManagement.Domain.deps.json
+D:\Customer\CustomerManagement\CustomerManagement.Domain\bin\Debug\net10.0\CustomerManagement.Domain.dll
+D:\Customer\CustomerManagement\CustomerManagement.Domain\bin\Debug\net10.0\CustomerManagement.Domain.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.AssemblyInfoInputs.cache
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.AssemblyInfo.cs
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.dll
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\refint\CustomerManagement.Domain.dll
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\ref\CustomerManagement.Domain.dll
