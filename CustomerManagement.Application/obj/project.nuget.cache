@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zz5oQ1sEuR4=",
+  "success": true,
+  "projectFilePath": "D:\\Customer\\CustomerManagement\\CustomerManagement.Application\\CustomerManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalpa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

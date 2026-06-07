@@ -1,0 +1,15 @@
+D:\Customer\CustomerManagement\CustomerManagement.Application\bin\Debug\net10.0\CustomerManagement.Application.deps.json
+D:\Customer\CustomerManagement\CustomerManagement.Application\bin\Debug\net10.0\CustomerManagement.Application.dll
+D:\Customer\CustomerManagement\CustomerManagement.Application\bin\Debug\net10.0\CustomerManagement.Application.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Application\bin\Debug\net10.0\CustomerManagement.Domain.dll
+D:\Customer\CustomerManagement\CustomerManagement.Application\bin\Debug\net10.0\CustomerManagement.Domain.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.csproj.AssemblyReference.cache
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.AssemblyInfoInputs.cache
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.AssemblyInfo.cs
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.csproj.CoreCompileInputs.cache
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\Customer.ED26E553.Up2Date
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.dll
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\refint\CustomerManagement.Application.dll
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.pdb
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\ref\CustomerManagement.Application.dll
