@@ -1,30 +1,27 @@
-create or alter procedure dbo.usp_Customer_Update
-	@CustomerId int,
-	@CustomeName nvarchar(150),
-	@Address nvarchar(250)=null,
-	@DateOfBirth Date,
-	@CustomerType tinyint,
-	@Email nvarchar(150)=null,
-	@PhoneNumber nvarchar(20) = null,
-	@IsActive bit
-
-AS 
+CREATE OR ALTER PROCEDURE dbo.usp_Customer_Update
+    @CustomerId   INT,
+    @CustomerName NVARCHAR(150),
+    @Address      NVARCHAR(250) = NULL,
+    @DateOfBirth  DATE,
+    @CustomerType TINYINT,
+    @Email        NVARCHAR(150) = NULL,
+    @PhoneNumber  NVARCHAR(20)  = NULL,
+    @IsActive     BIT
+AS
 BEGIN
-	SET NOCOUNT ON;
+    SET NOCOUNT ON;
 
-	UPDATE dbo.Customer set 
-		CustomeName=@CustomeName,
-		Address=@Address,
-		DateOfBirth=@DateOfBirth,
-		CustomerType=@CustomerType,
-		Email=@Email,
-		PhoneNumber=@PhoneNumber,
-		IsActive=@IsActive
-	WHERE CustomerId=@CustomerId;
+    UPDATE dbo.Customer
+    SET CustomerName = @CustomerName,
+        Address      = @Address,
+        DateOfBirth  = @DateOfBirth,
+        CustomerType = @CustomerType,
+        Email        = @Email,
+        PhoneNumber  = @PhoneNumber,
+        IsActive     = @IsActive
+    WHERE CustomerId = @CustomerId;
 
-	SELECT @@ROWCOUNT;
-
+    -- Return how many rows changed (0 means "not found")
+    SELECT @@ROWCOUNT;
 END
 GO
-
-		

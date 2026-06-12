@@ -13,3 +13,4 @@ D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\
 D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\refint\CustomerManagement.Application.dll
 D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.pdb
 D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\ref\CustomerManagement.Application.dll
+D:\Customer\CustomerManagement\CustomerManagement.Application\obj\Debug\net10.0\CustomerManagement.Application.sourcelink.json

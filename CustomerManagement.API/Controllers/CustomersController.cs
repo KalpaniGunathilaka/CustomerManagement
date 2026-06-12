@@ -1,5 +1,6 @@
 ﻿using CustomerManagement.Application.DTOs;
 using CustomerManagement.Application.Interfaces;
+using CustomerManagement.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CustomerManagement.API.Controllers;
@@ -19,11 +20,10 @@ public class CustomersController : ControllerBase
     int page = 1,
     int pageSize = 10)
     {
-        var customers =
-            await _service.GetAllAsync(
-                search,
-                page,
-                pageSize);
+        var customers = await _service.GetAllAsync(
+            search,
+            page,
+            pageSize);
 
         return Ok(customers);
     }

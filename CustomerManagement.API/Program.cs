@@ -1,7 +1,6 @@
 using System.Text.Json.Serialization;
 using CustomerManagement.Application;
 using CustomerManagement.Infrastructure;
-using CustomerManagement.API.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,7 +36,7 @@ if (app.Environment.IsDevelopment())
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "Customer Management API v1");
     });
 }
-app.UseMiddleware<ExceptionMiddleware>();
+
 app.UseHttpsRedirection();
 app.MapControllers();
 app.Run();

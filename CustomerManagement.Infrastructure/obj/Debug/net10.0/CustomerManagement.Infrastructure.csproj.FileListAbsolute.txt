@@ -15,3 +15,4 @@ D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10
 D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\refint\CustomerManagement.Infrastructure.dll
 D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.pdb
 D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\ref\CustomerManagement.Infrastructure.dll
+D:\Customer\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net10.0\CustomerManagement.Infrastructure.sourcelink.json

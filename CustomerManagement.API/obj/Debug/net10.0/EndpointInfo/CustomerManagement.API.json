@@ -205,8 +205,8 @@
       },
       "CustomerType": {
         "enum": [
-          "personal",
-          "business"
+          "Personal",
+          "Business"
         ],
         "type": "string"
       },

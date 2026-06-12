@@ -9,3 +9,4 @@ D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\Custo
 D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\refint\CustomerManagement.Domain.dll
 D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.pdb
 D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\ref\CustomerManagement.Domain.dll
+D:\Customer\CustomerManagement\CustomerManagement.Domain\obj\Debug\net10.0\CustomerManagement.Domain.sourcelink.json

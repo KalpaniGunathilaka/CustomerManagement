@@ -1,10 +1,9 @@
-create or alter procedure dbo.usp_Customer_Delete
-	@CustomerId int
-	
+CREATE OR ALTER PROCEDURE dbo.usp_Customer_Delete
+    @CustomerId INT
 AS
 BEGIN
-	SET NOCOUNT ON;
-	DELETE FROM dpo.Customer where CustomerId = @CustomerId;
-	select @@ROWCOUNT;
+    SET NOCOUNT ON;
+    DELETE FROM dbo.Customer WHERE CustomerId = @CustomerId;
+    SELECT @@ROWCOUNT;
 END
 GO

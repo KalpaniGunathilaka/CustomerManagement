@@ -1,7 +1,9 @@
 ﻿using CustomerManagement.Application.DTOs;
+
 namespace CustomerManagement.Application.Interfaces;
 
-public interface ICustomerService {
+public interface ICustomerService
+{
     Task<CustomerResponseDto?> CreateAsync(CustomerCreateDto dto);
     Task<bool> UpdateAsync(int id, CustomerUpdateDto dto);
     Task<bool> DeleteAsync(int id);
@@ -10,5 +12,4 @@ public interface ICustomerService {
     string? search,
     int page,
     int pageSize);
-
-}
+}   

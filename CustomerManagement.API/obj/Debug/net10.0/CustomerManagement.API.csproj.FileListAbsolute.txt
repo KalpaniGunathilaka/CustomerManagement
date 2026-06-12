@@ -65,10 +65,10 @@ D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\staticwe
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\staticwebassets.development.json
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\swae.build.ex.cache
-D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\Customer.C69426AC.Up2Date
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\CustomerManagement.API.dll
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\refint\CustomerManagement.API.dll
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\CustomerManagement.API.pdb
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\CustomerManagement.API.genruntimeconfig.cache
 D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\ref\CustomerManagement.API.dll
+D:\Customer\CustomerManagement\CustomerManagement.API\obj\Debug\net10.0\CustomerManagement.API.sourcelink.json

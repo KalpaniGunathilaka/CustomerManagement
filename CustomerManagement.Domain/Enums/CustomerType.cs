@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace CustomerManagement.Domain.Enums;
 
-namespace CustomerManagement.Domain.Enums;
-
+// Stored in the DB as a TINYINT (1 or 2).
 public enum CustomerType : byte
 {
-    personal = 1,
-    business = 2
+    Personal = 1,
+    Business = 2
 }

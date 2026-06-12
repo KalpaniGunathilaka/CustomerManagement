@@ -91,31 +91,23 @@ public class CustomerRepository : ICustomerRepository
         var customers = new List<Customer>();
 
         using var connection = _factory.CreateConnection();
-
-        using var command =
-            new SqlCommand(
-                "dbo.usp_Customer_GetAll",
-                connection);
-
-        command.CommandType =
-            CommandType.StoredProcedure;
+        using var command = new SqlCommand("dbo.usp_Customer_GetAll", connection)
+        {
+            CommandType = CommandType.StoredProcedure
+        };
 
         command.Parameters.AddWithValue(
             "@Search",
-            (object?)search ?? DBNull.Value);
+            string.IsNullOrWhiteSpace(search)
+                ? DBNull.Value
+                : search);
 
-        command.Parameters.AddWithValue(
-            "@Page",
-            page);
-
-        command.Parameters.AddWithValue(
-            "@PageSize",
-            pageSize);
+        command.Parameters.AddWithValue("@Page", page);
+        command.Parameters.AddWithValue("@PageSize", pageSize);
 
         await connection.OpenAsync();
 
-        using var reader =
-            await command.ExecuteReaderAsync();
+        using var reader = await command.ExecuteReaderAsync();
 
         while (await reader.ReadAsync())
         {

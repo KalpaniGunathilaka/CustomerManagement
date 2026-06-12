@@ -6,14 +6,10 @@ public interface ICustomerRepository
 {
     Task<Customer?> CreateAsync(Customer customer);
     Task<bool> UpdateAsync(Customer customer);
-
-    Task<bool> DeleteAsync(int CustomerId);
-
-    Task<Customer?> GetByIdAsync(int CustomerId);
-
+    Task<bool> DeleteAsync(int customerId);
+    Task<Customer?> GetByIdAsync(int customerId);
     Task<IEnumerable<Customer>> GetAllAsync(
     string? search,
     int page,
     int pageSize);
-
 }

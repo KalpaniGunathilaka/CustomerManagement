@@ -51,17 +51,15 @@ public class CustomerService : ICustomerService
         return entity is null ? null : MapToDto(entity);
     }
 
-    public async Task<IEnumerable<CustomerResponseDto>>
-    GetAllAsync(
-        string? search,
-        int page,
-        int pageSize)
+    public async Task<IEnumerable<CustomerResponseDto>> GetAllAsync(
+    string? search,
+    int page,
+    int pageSize)
     {
-        var list =
-            await _repository.GetAllAsync(
-                search,
-                page,
-                pageSize);
+        var list = await _repository.GetAllAsync(
+            search,
+            page,
+            pageSize);
 
         return list.Select(MapToDto);
     }
